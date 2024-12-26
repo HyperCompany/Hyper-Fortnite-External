@@ -87,7 +87,3 @@
 - Team Color
 - Automatic Distance Scaling
 - Orientation Lock
-
-Examples and showcase:
-
-https://youtu.be/gn0f2Acy27g?si=Qo0OuCsRa1aTER6o
