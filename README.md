@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hyper External - Free</h1>
 
-  [![Downloead](https://img.shields.io/badge/Total%20Downloads-25K%2B-blue?style=for-the-badge)](#)
+  [![Download]()](#)
 </div>
 
 <div align="center">
