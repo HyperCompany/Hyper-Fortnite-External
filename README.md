@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hyper External - Free</h1>
+  <h1>Hyper External</h1>
 
   [![Downloads](https://img.shields.io/badge/Total%20Downloads-25K%2B-blue?style=for-the-badge)](#)
   [![Version](https://img.shields.io/badge/Current%20Version-2.1-green?style=for-the-badge)](#)
