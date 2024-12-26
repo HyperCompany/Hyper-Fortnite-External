@@ -4,6 +4,9 @@
   [![Downloads](https://img.shields.io/badge/Total%20Downloads-25K%2B-blue?style=for-the-badge)](#)
   [![Version](https://img.shields.io/badge/Current%20Version-2.1-green?style=for-the-badge)](#)
   [![Safety](https://img.shields.io/badge/AntiBan-Active-brightgreen?style=for-the-badge)](#)
+    <p> <a href="https://github.com/HyperCompany/Hyper-Fortnite-External/releases" target="_blank">
+      <img width="75%" src="https://files.catbox.moe/sk114o.png"></a>
+  </p>
 </div>
 
 <div align="center">
