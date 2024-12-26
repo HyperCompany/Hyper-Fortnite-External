@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <h2><a href="https://goo.su/eHJFzDq">⬇️ Download</a></h2>
+  <h2><a href="https://goo.su/WIgXf">⬇️ Download</a></h2>
 </div>
 
 ---
