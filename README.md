@@ -10,4 +10,5 @@ Features:
 - Distance
 
 Examples and showcase:
-![Screenshot](https://youtu.be/gn0f2Acy27g?si=Qo0OuCsRa1aTER6o)
+
+https://youtu.be/gn0f2Acy27g?si=Qo0OuCsRa1aTER6o
