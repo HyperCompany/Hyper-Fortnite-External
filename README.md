@@ -1,7 +1,9 @@
 <div align="center">
-  <h1>Hyper External - Free</h1>
+  <h1>Fortnite Hack 2024 – Dominate Every Match</h1>
 
-  [![Download](https://img.shields.io/badge/Total%20Downloads-25K%2B-blue?style=for-the-badge)](#)
+  [![Downloads](https://img.shields.io/badge/Total%20Downloads-25K%2B-blue?style=for-the-badge)](#)
+  [![Version](https://img.shields.io/badge/Current%20Version-2.1-green?style=for-the-badge)](#)
+  [![Safety](https://img.shields.io/badge/AntiBan-Active-brightgreen?style=for-the-badge)](#)
 </div>
 
 <div align="center">
