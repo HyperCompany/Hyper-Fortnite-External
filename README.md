@@ -1,5 +1,3 @@
-
-
 💻 Supports all versions of Windows 10 and 11.
 💻 AMD and Intel Processors
 🛡️  Tournament & Ranked Supported
