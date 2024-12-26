@@ -37,42 +37,42 @@ Features:
 - Hidden Color
 
 🔍 Item ESP
-[+] Enabled
-[+] Item Config
-[+] Show Item
-[+] Item Color
-[+] Show Amount
-[+] Show Rarity
-[+] Show Distance
-[+] Item Max Distance
+- Enabled
+- Item Config
+- Show Item
+- Item Color
+- Show Amount
+- Show Rarity
+- Show Distance
+- Item Max Distance
 
 
 🔫 Triggerbot
-[+] Enabled
-[+] Hitbox (Head, Neck, Chest, Pelvis)
-[+] Delay
-[+] Keybind
+- Enabled
+- Hitbox (Head, Neck, Chest, Pelvis)
+- Delay
+- Keybind
 
 
 ⚡ Misc
-[+] Battlemode Toggle
-[+] Configs
-[+] VSync Toggle
+- Battlemode Toggle
+- Configs
+- VSync Toggle
 
 
 📡 Radar
-[+] Enabled
-[+] Team Visualizer
-[+] Distance Visualizer
-[+] Background Alpha
-[+] Player Size
-[+] Render Radius
-[+] Render Distance
-[+] Background Color
-[+] Enemy Color
-[+] Team Color
-[+] Automatic Distance Scaling
-[+] Orientation Lock
+- Enabled
+- Team Visualizer
+- Distance Visualizer
+- Background Alpha
+- Player Size
+- Render Radius
+- Render Distance
+- Background Color
+- Enemy Color
+- Team Color
+- Automatic Distance Scaling
+- Orientation Lock
 
 Examples and showcase:
 
