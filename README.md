@@ -14,7 +14,7 @@
 
 ## Features:                                                                                                                    
 
-🎯AIMBOT
+### 🎯AIMBOT
 - Individual Weapon Type Configs
 - Enabled
 - Prediction
@@ -31,7 +31,7 @@
 - Aimbot Keybind
 - Aimbot Keybind
 
-👁️ VISUALS
+### 👁️ VISUALS
 - Box (Corner Box, Full Box)
 - Skeleton
 - Distance
@@ -50,7 +50,7 @@
 - Visible Color
 - Hidden Color
 
-🔍 Item ESP
+### 🔍 Item ESP
 - Enabled
 - Item Config
 - Show Item
@@ -61,20 +61,20 @@
 - Item Max Distance
 
 
-🔫 Triggerbot
+### 🔫 Triggerbot
 - Enabled
 - Hitbox (Head, Neck, Chest, Pelvis)
 - Delay
 - Keybind
 
 
-⚡ Misc
+### ⚡ Misc
 - Battlemode Toggle
 - Configs
 - VSync Toggle
 
 
-📡 Radar
+###📡 Radar
 - Enabled
 - Team Visualizer
 - Distance Visualizer
