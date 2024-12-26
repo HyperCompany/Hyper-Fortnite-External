@@ -74,7 +74,7 @@
 - VSync Toggle
 
 
-###📡 Radar
+### 📡 Radar
 - Enabled
 - Team Visualizer
 - Distance Visualizer
