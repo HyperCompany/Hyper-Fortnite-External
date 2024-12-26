@@ -1,40 +1,40 @@
 Features:                                                                                                                    
 
 🎯AIMBOT
-[+] Individual Weapon Type Configs
-[+] Enabled
-[+] Prediction
-[+] Hitbox (Head, Neck, Chest, Pelvis)
-[+] Smoothing
-[+] Deadzone
-[+] Aim FOV
-[+] Aimbot Max Distance
-[+] Draw FOV
-[+] Filled FOV
-[+] Visible Check
-[+] Ignore Wounded
-[+] Ignore Team
-[+] Aimbot Keybind
-[+] Aimbot Keybind
+- Individual Weapon Type Configs
+- Enabled
+- Prediction
+- Hitbox (Head, Neck, Chest, Pelvis)
+- Smoothing
+- Deadzone
+- Aim FOV
+- Aimbot Max Distance
+- Draw FOV
+- Filled FOV
+- Visible Check
+- Ignore Wounded
+- Ignore Team
+- Aimbot Keybind
+- Aimbot Keybind
 
 👁️ VISUALS
-[+] Box (Corner Box, Full Box)
-[+] Skeleton
-[+] Distance
-[+] Held Weapon
-[+] Show NPC
-[+] Show Team
-[+] Team ID
-[+] Seperate Team ID Color
-[+] Show Kills
-[+] Snaplines (Center, Top, Bottom)
-[+] Team Color
-[+] Text Color
-[+] Skeleton Color
-[+] Hidden Skeleton Color
-[+] Knocked Color
-[+] Visible Color
-[+] Hidden Color
+- Box (Corner Box, Full Box)
+- Skeleton
+- Distance
+- Held Weapon
+- Show NPC
+- Show Team
+- Team ID
+- Seperate Team ID Color
+- Show Kills
+- Snaplines (Center, Top, Bottom)
+- Team Color
+- Text Color
+- Skeleton Color
+- Hidden Skeleton Color
+- Knocked Color
+- Visible Color
+- Hidden Color
 
 🔍 Item ESP
 [+] Enabled
